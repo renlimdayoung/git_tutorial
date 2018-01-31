@@ -1,5 +1,5 @@
 package git_test
-	// GitHub modification
+	// GitHub modification GIT
 public class HelloGit{
 	
 	public static void main(String[] args){
